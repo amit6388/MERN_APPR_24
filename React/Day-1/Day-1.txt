@@ -1,9 +1,0 @@
-                /* TASK  JS     */
- 
- 1.How do you change the text of a paragraph element with getElementById?
- 2.Display the value of an input field in an alert box.
- 3.Change the background color of a div when a button is clicked.
- 4.Change the text content of a p element when a button is clicked.
- 5.Change the video source dynamically when a button is clicked.
- 6.Disable or enable an input field when a button is clicked.
-  
