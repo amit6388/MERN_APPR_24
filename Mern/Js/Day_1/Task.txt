@@ -1,0 +1,9 @@
+Write a JavaScript program to display a welcome message using alert.
+Write a JavaScript program to display a hello JavaScript message using alert.
+Write a JavaScript program to display a welcome to js message using console.
+Write a program that logs the multiple Name message of 5 in the alert.
+Create a program to ask the user for their name using prompt and  alert it.
+Write a script that logs numbers from 1 to 10 on the browser using document.write .
+Create a script to display the  date and time on the browser using document.write.
+
+
