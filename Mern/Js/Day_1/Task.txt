@@ -8,3 +8,6 @@ Write a script that logs numbers from 1 to 10 on the browser using document.writ
 Create a script to display the  date and time on the browser using document.write.
 
 
+for day 2 visit the provided link
+
+https://github.com/amit6388/MERN_APPR_24/tree/master/Mern/Js/Day_2
