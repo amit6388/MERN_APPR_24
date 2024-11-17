@@ -1,0 +1,45 @@
+1. How do you declare and check the type of a variable?
+2. What is the difference between null and undefined?
+3. How do you check if a variable is an variable?
+4. What are the different types of numbers in JavaScript?
+5. What is the result of adding a number and a string?
+4. How do NaN and typeof NaN behave?
+5. What happens when you compare a string with a number?
+7. What is the difference between primitive and reference types?
+8. How does typeof behave with different types?
+9. What happens when you convert between types explicitly?
+10.Use an if statement to check if a number is positive
+11. Use if-else to determine if a number is even or odd
+12. Use if-else if to check a range of numbers
+13.Use a switch statement to display the day of the week
+14. Identify a null value
+15. Check if a number is positive, negative, or zero
+16. Check if a string is empty
+17. Check if a number is greater than 100
+18.Check if a person is eligible to vote
+19. Check if a number is divisible by both 3 and 5
+20.Check if a number is negative
+21.Check if a number is divisible by 2
+22.Check if a number is between 10 and 20
+23. Check if a person is eligible for senior citizen benefits
+24. Check if a number is zero
+25.Check if a number is between 1 and 100
+26. Check if a string contains the word "JavaScript"
+27. Check if a number is positive, negative, or zero using else if statement
+28.Grade classification based on score using else if statement
+29.Check if a number is within a specific range using else if statement
+30.Determine the day of the week using else if statement
+31.Check if a number is divisible by 3, 5, or both using else if statement
+32.Check if a string is uppercase, lowercase, or mixed case using else if statement
+33.What is the result of the + operator when used with a number and a string?
+34.What does the && (AND) operator do?
+35. What does the || (OR) operator do?
+36. What is the result of the ! (NOT) operator?
+37. How do you use the ternary operator?
+38.What is the result of the ++ (increment) operator?
+39.What is the result of the -- (decrement) operator?
+40.What does the + operator do when used with two strings?
+41.How do you perform a comparison with !=?
+42.What is the result of the typeof operator?
+ 43.What is the result of a || b when a is falsy?
+ 
