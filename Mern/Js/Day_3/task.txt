@@ -1,0 +1,58 @@
+1. How do you write a for loop to print numbers from 1 to 10 (inclusive)?
+2. How can you use a for loop to print numbers from 10 down to 1?
+3.How can you skip printing the number 3 when looping through the numbers 1 to 5?
+4.How do you use a nested for loop to print a 3x3 multiplication table?
+5.How can you write a for loop to print every 3rd number from 0 to 15?
+6.How can you loop through each character of the string "hello" and print them individually?
+7.How can you use a while loop to calculate the sum of numbers from 1 to 10?
+8.How would you write a while loop that prints numbers from 10 down to 1?
+9.How can you skip the number 3 and print all numbers from 1 to 5 using a while loop?
+10.How can you loop through each character of the string "hello" using a while loop?
+11.How can you write a while loop to print every second number between 0 and 10?
+12.How can you use a while loop to sum all even numbers between 1 and 20?
+13.What is the correct syntax of a do...while loop to print numbers from 1 to 5?
+14.How would you write a do...while loop that prints numbers from 10 down to 1?
+15.A function with a name defined using the function keyword ? " function name" name()
+16.A named function is declared by using the function keyword followed by a name.
+17.Yes, you can assign a named function to a variable.
+18.A named function has a name, whereas an anonymous function does not.
+10. Addition of Two Numbers using Name function
+20. Check if a Number is Even  using Name function
+21. Find the Largest of Two Numbers  using Name function
+22. Factorial of a Number  using Name function
+23. Generate Multiplication Table  using Name function
+24. Convert Celsius to Fahrenheit  using Name function
+25. Check if a Number is Prime  using Name function
+26. Find the Square of a Number  using Name function
+27. Check if a Year is a Leap Year  using Name function
+28. Find the cube of a Number  using arrow function
+29.Addition of Two Numbers using arrow function
+30. Check if a Number is Even  using  arrow function
+31. Find the Largest of Two Numbers  using  arrow function
+32. Factorial of a Number  using  arrow function
+33. Generate Multiplication Table  using arrow function
+34. Convert Celsius to Fahrenheit  using arrow function
+35. Check if a Number is Prime  using arrow function
+36. Find the Square of a Number  using arrow function
+37. Check if a Year is a Leap Year  using arrow function
+38. Find the cube of a Number  using arrow function
+39.Addition of Two Numbers using anonymous function
+40. Check if a Number is Even  using anonymous function
+41. Find the Largest of Two Numbers  using anonymous function
+42. Factorial of a Number  using anonymous function
+43. Generate Multiplication Table  using anonymous function
+44. Convert Celsius to Fahrenheit  using anonymous function
+45. Check if a Number is Prime  using anonymous function
+46. Find the Square of a Number  using anonymous function
+47. Check if a Year is a Leap Year  using anonymous function
+48. Find the cube of a Number  using anonymous function
+49.Addition of Two Numbers using IIFE function
+50. Check if a Number is Even  using  IIFE function
+51. Find the Largest of Two Numbers  using  IIFE function
+52. Factorial of a Number  using  IIFE function
+53. Generate Multiplication Table  using  IIFE function
+54. Convert Celsius to Fahrenheit  using  IIFE function
+55. Check if a Number is Prime  using  IIFE function
+56. Find the Square of a Number  using  IIFE function
+57. Check if a Year is a Leap Year  using  IIFE function
+58. Find the cube of a Number  using  IIFE function
