@@ -1,0 +1,24 @@
+How do you create an array?
+How do you access an element in an array?
+How do you find the length of an array?
+How do you add an element to the end of an array?
+How do you find the index of an element in an array?
+How do you reverse an array?
+How do you iterate over an array using forEach?
+Can forEach modify the original array?
+How do you access both the element and its index in forEach?
+How do you access the entire array inside forEach?
+Can forEach handle an empty array?
+How do you use forEach to calculate a sum?
+Can forEach return a value?
+How do you use forEach to log only even numbers?
+Can you use an arrow function with forEach?
+How do you iterate through an array using a for loop?
+How do you print numbers from 1 to 5 using a for loop?
+How do you print only even numbers between 1 and 10 using for loop
+ How do you calculate the sum of the first 5 natural numbers using for loop
+ How do you print the multiplication table of 3?
+How do you break a for loop when a condition is met?
+How do you print the squares of numbers from 1 to 5?
+How do you calculate the sum of an array?
+How do you print only odd numbers from 1 to 10
