@@ -1,0 +1,16 @@
+1. How to create an array of objects in JavaScript?
+2. How to access an object inside an array
+3. How to iterate through an array of objects?
+4. How to add a new object to an array?
+5. How to remove an object from an array
+6. How to check if an array contains an object
+7. How to get the total number of elements in an array of objects?
+8. How to update a property value in an object inside an array?
+9. How to find the index of an object in an array?
+10. How to remove an object by its value from an array
+11. How to create a nested array of objects in JavaScript
+12. How to access a property of an object within a nested array?
+13. How to access a property of an object within a nested array?
+14. How to add an object inside a nested array
+15. How to remove an object from a nested array
+16. How to access a deeply nested property in an array of objects?
