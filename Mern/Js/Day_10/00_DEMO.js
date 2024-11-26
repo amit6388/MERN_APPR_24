@@ -11,9 +11,9 @@
                      export default add; // Default export
 
                      // Importing the default export app.js
-                     import addNumbers from './math.js'; // You can rename 'add' to 'addNumbers' or any name
+                     import add from './math.js'; // You can rename 'add' to 'addNumbers' or any name
 
-                     console.log(addNumbers(5, 3)); // Output: 8
+                     console.log(add(5, 3)); // Output: 8
 
 
     2.muluple export  
